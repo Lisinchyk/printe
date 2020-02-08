@@ -29,7 +29,7 @@ $RECYCLE.BIN/
 .browserslistrc
 .editorconfig
 .jshintrc
-gulpfile.js
-package-lock.json
+#gulpfile.js
+#package-lock.json
 package.json
 yarn.lock
